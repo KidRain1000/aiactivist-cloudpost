@@ -791,7 +791,9 @@ def heartbeat_body(q, log_path, now):
     posted = {p: [r for r in rows if r["platform"] == p and r["status"] == "posted"] for p in PLATFORMS}
     failed = [r for r in rows if r["status"] == "failed"]
     rw = runway(q, now)
-    low = [p for p in PLATFORMS if rw[p][2] < LOW_RUNWAY_DAYS]
+    # only platforms with keys count: X and IG are parked until their keys exist (10/30 false alarm)
+    keys = {"bluesky": "BSKY_APP_PASSWORD", "x": "X_ACCESS_TOKEN", "instagram": "IG_ACCESS_TOKEN"}
+    low = [p for p in PLATFORMS if os.environ.get(keys.get(p, "")) and rw[p][2] < LOW_RUNWAY_DAYS]
     subject = ("QUEUE RUNNING LOW: " if low else "") + f"AI Activist daily heartbeat {now.date().isoformat()}"
     h = ["<p><b>Posted in the last 24h</b></p><ul>"]
     for p in PLATFORMS:
