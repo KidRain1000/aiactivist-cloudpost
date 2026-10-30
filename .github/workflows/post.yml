@@ -1,0 +1,51 @@
+# AI Activist cloud poster. Every 10 min: post what is due, commit queue.json + post-log.csv back.
+# No sleep steps (house rule): slow media work is two-phase across runs inside cloudpost.py.
+name: post
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # UTC; GitHub may start scheduled runs a few minutes late
+  workflow_dispatch:
+
+# One run at a time, ever. A queued run waits; it is never cancelled mid-post.
+concurrency:
+  group: cloudpost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Git identity (claims are committed before each send)
+        run: |
+          git config user.name "ai-activist-cloudpost"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Post what is due
+        env:
+          CLOUDPOST_GIT_CHECKPOINT: "1"
+          BSKY_HANDLE: ${{ vars.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python3 cloudpost.py
+
+      - name: Commit queue and log
+        if: always()
+        run: |
+          git add queue.json post-log.csv
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -q -m "cloudpost run ${{ github.run_id }}"
+          git pull -q --rebase
+          git push -q
