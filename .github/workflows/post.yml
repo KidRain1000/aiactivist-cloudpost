@@ -4,7 +4,7 @@ name: post
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # UTC; GitHub may start scheduled runs a few minutes late
+    - cron: "3-59/10 * * * *"   # UTC, off the :00 rush. GitHub drops many scheduled runs (3 of 144 ran on 10/30), so the Mac kicker (tools/kick.sh) also dispatches every 10 min
   workflow_dispatch:
 
 # One run at a time, ever. A queued run waits; it is never cancelled mid-post.
