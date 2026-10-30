@@ -26,6 +26,10 @@ Cloud version of `../ai-activist-autopost/poster.py`. The rules are the same; it
 - Failures email chris.pearson@savoytx.com via Resend, from noreply@getnmad.com.
 - Daily heartbeat: the first run at or after 7 PM CT emails what was posted in the last 24h per platform, failures, and approved items left per platform. The subject starts with `QUEUE RUNNING LOW` when any platform has fewer than 3 days of items left.
 
+## Mac kicker (added 10/30)
+GitHub's own cron is unreliable: on 10/30 only 3 of 144 scheduled runs happened, so every X video (needs two runs: upload, then post) went stale. `tools/kick.sh` runs from launchd (`com.tars.aiactivist-cloudkick`, every 10 min, log `~/Library/Logs/aiactivist-cloudkick.log`) and dispatches the workflow when no run is in flight. The GitHub cron (`3-59/10`) stays as the backup while the Mac is off or asleep.
+Install: `cp tools/com.tars.aiactivist-cloudkick.plist ~/Library/LaunchAgents/ && launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.tars.aiactivist-cloudkick.plist`. Stop: `launchctl bootout gui/$(id -u)/com.tars.aiactivist-cloudkick`.
+
 ## Cloud item format
 Same as the Mac queue, except:
 - `video` (filename) + `video_url` (public URL) replace `video_path`.
