@@ -10,9 +10,9 @@
       "video": "b0043.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0043.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "failed",
       "posted_url": null,
-      "error": null,
+      "error": "stale: slot 2026-10-30T08:15:00-05:00 passed more than 6h ago; not posted late",
       "x_media_id": "2116213442453368832",
       "x_media_at": "2026-10-30T11:59:36-05:00"
     },
@@ -27,7 +27,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2116279851615223808",
+      "x_media_at": "2026-10-30T16:23:29-05:00"
     },
     {
       "id": "x-video-0044",
@@ -63,9 +65,9 @@
       "alt": "Text card video: Mike ignores the GPS and ends up at his mother in law's driveway.",
       "video": "b0049.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0049.mp4",
-      "status": "approved",
+      "status": "failed",
       "posted_url": null,
-      "error": null,
+      "error": "stale: slot 2026-10-30T10:15:00-05:00 passed more than 6h ago; not posted late",
       "bsky_video_job": "dbicpuqeqakc73ard8a0"
     },
     {
@@ -873,9 +875,9 @@
       "video": "b0081.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0081.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "failed",
       "posted_url": null,
-      "error": null
+      "error": "stale: slot 2026-10-30T09:35:00-05:00 passed more than 6h ago; not posted late"
     },
     {
       "id": "ig-quick-0081",
@@ -4674,6 +4676,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-10-30T11:59:40-05:00",
+  "updated_at": "2026-10-30T16:23:30-05:00",
   "heartbeat_sent_on": "2026-10-29"
 }
