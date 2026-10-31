@@ -183,7 +183,9 @@
       "posted_url": null,
       "error": null,
       "x_media_id": "2116604039987367936",
-      "x_media_at": "2026-10-31T13:51:41-05:00"
+      "x_media_at": "2026-10-31T13:51:41-05:00",
+      "x_media_ready": true,
+      "claimed_at": "2026-10-31T14:08:35-05:00"
     },
     {
       "id": "bs-video-0064",
@@ -4711,6 +4713,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-10-31T13:51:42-05:00",
+  "updated_at": "2026-10-31T14:08:35-05:00",
   "heartbeat_sent_on": "2026-10-30"
 }
