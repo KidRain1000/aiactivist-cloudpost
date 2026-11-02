@@ -4817,8 +4817,8 @@
       "alt": "Comedy skit. A dad mocks his daughter for saying please to the smart speaker. Late at night he is caught in his bathrobe whispering please to it. The speaker: Same as every night.",
       "video": "s002.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s002.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mzdu4qjvp3lj",
       "error": null,
       "bsky_video_job": "dbkcdajsvh7s738i81tg",
       "bsky_blob": {
@@ -4830,9 +4830,9 @@
         "size": 5865677
       },
       "bsky_rkey": "3mzdu4qjvp3lj",
-      "claimed_at": "2026-11-02T11:31:47-06:00"
+      "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-02T11:31:50-06:00",
+  "updated_at": "2026-11-02T11:31:54-06:00",
   "heartbeat_sent_on": "2026-11-01"
 }
