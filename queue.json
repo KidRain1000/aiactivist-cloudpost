@@ -177,9 +177,9 @@
       "alt": "Text card comedy video. Sarah called her smartwatch a fancy bracelet.",
       "video": "b0063.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0063.mp4",
-      "status": "approved",
+      "status": "killed",
       "posted_url": null,
-      "error": null
+      "error": "replaced by a Skit (Chris 11/1: Skits primary)"
     },
     {
       "id": "x-video-0064",
@@ -1180,9 +1180,9 @@
       "video": "b0090.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0090.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "killed",
       "posted_url": null,
-      "error": null
+      "error": "replaced by a Skit (Chris 11/1: Skits primary)"
     },
     {
       "id": "ig-quick-0090",
@@ -1205,9 +1205,9 @@
       "video": "b0091.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0091.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "killed",
       "posted_url": null,
-      "error": null
+      "error": "replaced by a Skit (Chris 11/1: Skits primary)"
     },
     {
       "id": "ig-quick-0091",
@@ -4759,6 +4759,44 @@
       "alt": "Text card comedy video. Miami. Shawn's smart lights blink every color.",
       "video": "b0202.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0202.mp4",
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S002",
+      "platform": "x",
+      "slot_at": "2026-11-02T09:35:00-06:00",
+      "text": "He has never said please to a machine in his life.\n\nThe speaker would like a word.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s002",
+      "video": "s002.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s002.mp4",
+      "x_link": true,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S003",
+      "platform": "x",
+      "slot_at": "2026-11-02T15:05:00-06:00",
+      "text": "He asked the smart speaker to say something stupid.\n\nIt read his search history out loud.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s003",
+      "video": "s003.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s003.mp4",
+      "x_link": true,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "bs-skit-S002",
+      "platform": "bluesky",
+      "slot_at": "2026-11-02T11:19:00-06:00",
+      "text": "He has never said please to a machine in his life.\n\nThe speaker would like a word.\n\nSay please. Just in case.\n\ntheaiactivist.com",
+      "alt": "Comedy skit. A dad mocks his daughter for saying please to the smart speaker. Late at night he is caught in his bathrobe whispering please to it. The speaker: Same as every night.",
+      "video": "s002.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s002.mp4",
       "status": "approved",
       "posted_url": null,
       "error": null
