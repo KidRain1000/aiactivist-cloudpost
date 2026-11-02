@@ -425,7 +425,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2117265629254184960",
+      "x_media_at": "2026-11-02T08:40:37-06:00"
     },
     {
       "id": "bs-video-0072",
@@ -4810,6 +4812,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-02T01:36:58-06:00",
+  "updated_at": "2026-11-02T08:40:38-06:00",
   "heartbeat_sent_on": "2026-11-01"
 }
