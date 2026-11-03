@@ -209,7 +209,8 @@
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0064.mp4",
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "bsky_video_job": "dbl4psntg01s73ean87g"
     },
     {
       "id": "x-video-0065",
@@ -569,9 +570,9 @@
       "video": "b0077.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0077.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "failed",
       "posted_url": null,
-      "error": null,
+      "error": "stale: slot 2026-11-03T08:15:00-06:00 passed more than 6h ago; not posted late",
       "x_media_id": "2117640425578147840",
       "x_media_at": "2026-11-03T09:29:55-06:00"
     },
@@ -2213,7 +2214,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2117725236351119360",
+      "x_media_at": "2026-11-03T15:06:55-06:00"
     },
     {
       "id": "x-quick-0114",
@@ -4855,6 +4858,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-03T09:29:56-06:00",
+  "updated_at": "2026-11-03T15:06:58-06:00",
   "heartbeat_sent_on": "2026-11-02"
 }
