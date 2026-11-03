@@ -207,8 +207,8 @@
       "quiet": true,
       "video": "b0064.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0064.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mzgqwzsgwjpw",
       "error": null,
       "bsky_video_job": "dbl4psntg01s73ean87g",
       "bsky_blob": {
@@ -220,7 +220,7 @@
         "size": 7455132
       },
       "bsky_rkey": "3mzgqwzsgwjpw",
-      "claimed_at": "2026-11-03T15:12:45-06:00"
+      "posted_at": "2026-11-03T15:12:45-06:00"
     },
     {
       "id": "x-video-0065",
@@ -4870,6 +4870,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-03T15:12:56-06:00",
+  "updated_at": "2026-11-03T15:13:08-06:00",
   "heartbeat_sent_on": "2026-11-02"
 }
