@@ -35,3 +35,4 @@ logged_at,id,platform,slot_at,status,posted_url,error
 2026-11-03T00:11:39-06:00,x-video-0076,x,2026-11-02T19:15:00-06:00,posted,https://x.com/aiactivisthq/status/2117499936212218173,
 2026-11-03T01:50:50-06:00,x-quick-0092,x,2026-11-02T21:30:00-06:00,posted,https://x.com/aiactivisthq/status/2117524898189103229,
 2026-11-03T15:06:55-06:00,x-video-0077,x,2026-11-03T08:15:00-06:00,failed,,stale: slot 2026-11-03T08:15:00-06:00 passed more than 6h ago; not posted late
+2026-11-03T15:12:45-06:00,x-quick-0113,x,2026-11-03T09:35:00-06:00,posted,https://x.com/aiactivisthq/status/2117726745314967803,
