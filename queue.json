@@ -247,8 +247,8 @@
       "alt": "Text card comedy video. Lauren called the fridge a big lunchbox.",
       "video": "b0065.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0065.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mziwp3y3ckfz",
       "error": null,
       "bsky_video_job": "dbln13drc03c73e6hd90",
       "bsky_blob": {
@@ -260,7 +260,7 @@
         "size": 7918820
       },
       "bsky_rkey": "3mziwp3y3ckfz",
-      "claimed_at": "2026-11-04T12:01:11-06:00"
+      "posted_at": "2026-11-04T12:01:11-06:00"
     },
     {
       "id": "x-video-0066",
@@ -4913,6 +4913,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-04T12:01:12-06:00",
+  "updated_at": "2026-11-04T12:01:16-06:00",
   "heartbeat_sent_on": "2026-11-03"
 }
