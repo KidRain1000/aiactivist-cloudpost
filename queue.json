@@ -287,8 +287,8 @@
       "alt": "Text card comedy video. Jason called the GPS Captain Obvious.",
       "video": "b0066.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0066.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mzlgqys6m6j3",
       "error": null,
       "bsky_video_job": "dbmc0mfpui1c73csvf80",
       "bsky_blob": {
@@ -300,7 +300,7 @@
         "size": 6397763
       },
       "bsky_rkey": "3mzlgqys6m6j3",
-      "claimed_at": "2026-11-05T11:53:53-06:00"
+      "posted_at": "2026-11-05T11:53:53-06:00"
     },
     {
       "id": "x-video-0067",
@@ -4956,6 +4956,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-05T11:53:55-06:00",
+  "updated_at": "2026-11-05T11:53:58-06:00",
   "heartbeat_sent_on": "2026-11-04"
 }
