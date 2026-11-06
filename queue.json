@@ -327,8 +327,8 @@
       "alt": "Text card comedy video. Megan called the smart speaker a party pooper.",
       "video": "b0067.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0067.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mzofcjf4wpdn",
       "error": null,
       "bsky_video_job": "dbn1a9h9qves73b7o3m0",
       "bsky_blob": {
@@ -340,7 +340,7 @@
         "size": 7036385
       },
       "bsky_rkey": "3mzofcjf4wpdn",
-      "claimed_at": "2026-11-06T16:05:54-06:00"
+      "posted_at": "2026-11-06T16:05:54-06:00"
     },
     {
       "id": "x-video-0068",
@@ -1549,7 +1549,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2118827254931226625",
+      "x_media_at": "2026-11-06T16:05:54-06:00"
     },
     {
       "id": "x-video-0108",
@@ -4999,6 +5001,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-06T16:05:55-06:00",
+  "updated_at": "2026-11-06T16:05:58-06:00",
   "heartbeat_sent_on": "2026-11-05"
 }
