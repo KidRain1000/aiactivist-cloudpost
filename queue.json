@@ -487,8 +487,8 @@
       "alt": "Text card comedy video. Heather called the printer a drama queen.",
       "video": "b0071.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0071.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3mzxyehiaeau5",
       "error": null,
       "bsky_video_job": "dbpl9l3sq3vc739mvoag",
       "bsky_blob": {
@@ -500,7 +500,7 @@
         "size": 6982046
       },
       "bsky_rkey": "3mzxyehiaeau5",
-      "claimed_at": "2026-11-10T11:40:58-06:00"
+      "posted_at": "2026-11-10T11:40:58-06:00"
     },
     {
       "id": "x-video-0072",
@@ -5163,6 +5163,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-10T11:40:59-06:00",
+  "updated_at": "2026-11-10T11:41:02-06:00",
   "heartbeat_sent_on": "2026-11-09"
 }
