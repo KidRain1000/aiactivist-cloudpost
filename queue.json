@@ -2859,7 +2859,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2120569055937523714",
+      "x_media_at": "2026-11-11T11:27:15-06:00"
     },
     {
       "id": "x-quick-0178",
@@ -5187,6 +5189,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-11T10:13:02-06:00",
+  "updated_at": "2026-11-11T11:27:16-06:00",
   "heartbeat_sent_on": "2026-11-10"
 }
