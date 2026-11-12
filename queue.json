@@ -2091,7 +2091,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2120925710923808768",
+      "x_media_at": "2026-11-12T11:04:28-06:00"
     },
     {
       "id": "x-video-0162",
@@ -5234,6 +5236,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-12T09:54:02-06:00",
+  "updated_at": "2026-11-12T11:04:29-06:00",
   "heartbeat_sent_on": "2026-11-11"
 }
