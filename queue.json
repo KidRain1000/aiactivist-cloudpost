@@ -607,8 +607,8 @@
       "alt": "Text card comedy video. Mason called the smart TV a dumb box.",
       "video": "b0074.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0074.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n27krq763gy3",
       "error": null,
       "bsky_video_job": "dbrkr526je3c73aq7oa0",
       "bsky_blob": {
@@ -620,7 +620,7 @@
         "size": 7864949
       },
       "bsky_rkey": "3n27krq763gy3",
-      "claimed_at": "2026-11-13T11:59:07-06:00"
+      "posted_at": "2026-11-13T11:59:07-06:00"
     },
     {
       "id": "x-video-0075",
@@ -5292,6 +5292,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-13T11:59:10-06:00",
+  "updated_at": "2026-11-13T11:59:12-06:00",
   "heartbeat_sent_on": "2026-11-12"
 }
