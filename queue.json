@@ -609,7 +609,8 @@
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0074.mp4",
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "bsky_video_job": "dbrkr526je3c73aq7oa0"
     },
     {
       "id": "x-video-0075",
@@ -2187,7 +2188,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2121299326303653888",
+      "x_media_at": "2026-11-13T11:49:05-06:00"
     },
     {
       "id": "x-video-0167",
@@ -5277,6 +5280,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-13T10:30:01-06:00",
+  "updated_at": "2026-11-13T11:49:08-06:00",
   "heartbeat_sent_on": "2026-11-12"
 }
