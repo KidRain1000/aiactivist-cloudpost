@@ -647,8 +647,8 @@
       "alt": "Text card comedy video. Hannah called the robot vacuum Dumbo.",
       "video": "b0075.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0075.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2c4anqbxdfw",
       "error": null,
       "bsky_video_job": "dbsa0pgeifsc73ddapo0",
       "bsky_blob": {
@@ -660,7 +660,7 @@
         "size": 6943894
       },
       "bsky_rkey": "3n2c4anqbxdfw",
-      "claimed_at": "2026-11-14T12:17:03-06:00"
+      "posted_at": "2026-11-14T12:17:03-06:00"
     },
     {
       "id": "x-video-0076",
@@ -2294,7 +2294,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2121668763854753792",
+      "x_media_at": "2026-11-14T12:17:03-06:00"
     },
     {
       "id": "x-video-0183",
@@ -5331,6 +5333,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-14T12:17:03-06:00",
+  "updated_at": "2026-11-14T12:17:07-06:00",
   "heartbeat_sent_on": "2026-11-13"
 }
