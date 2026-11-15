@@ -687,8 +687,8 @@
       "alt": "Text card comedy video. Logan called the self checkout a snitch.",
       "video": "b0076.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0076.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2ejtxzhhxfp",
       "error": null,
       "bsky_video_job": "dbsuhgsg6qrs73ceiis0",
       "bsky_blob": {
@@ -700,7 +700,7 @@
         "size": 6241300
       },
       "bsky_rkey": "3n2ejtxzhhxfp",
-      "claimed_at": "2026-11-15T11:25:49-06:00"
+      "posted_at": "2026-11-15T11:25:49-06:00"
     },
     {
       "id": "x-video-0077",
@@ -5374,6 +5374,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-15T11:25:50-06:00",
+  "updated_at": "2026-11-15T11:25:53-06:00",
   "heartbeat_sent_on": "2026-11-14"
 }
