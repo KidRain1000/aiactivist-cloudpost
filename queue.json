@@ -3269,7 +3269,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2122361437712527360",
+      "x_media_at": "2026-11-16T10:09:32-06:00"
     },
     {
       "id": "ig-video-0093",
@@ -5402,6 +5404,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-16T08:53:32-06:00",
+  "updated_at": "2026-11-16T10:09:33-06:00",
   "heartbeat_sent_on": "2026-11-15"
 }
