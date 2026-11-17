@@ -767,8 +767,8 @@
       "alt": "Text card comedy video. Jake called the smart oven a toaster with dreams.",
       "video": "b0078.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0078.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2jldaz7jhya",
       "error": null,
       "bsky_video_job": "dbu8s1um8v8c73e1djug",
       "bsky_blob": {
@@ -780,7 +780,7 @@
         "size": 6665496
       },
       "bsky_rkey": "3n2jldaz7jhya",
-      "claimed_at": "2026-11-17T11:35:34-06:00"
+      "posted_at": "2026-11-17T11:35:34-06:00"
     },
     {
       "id": "x-video-0079",
@@ -5452,6 +5452,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-17T11:35:35-06:00",
+  "updated_at": "2026-11-17T11:35:38-06:00",
   "heartbeat_sent_on": "2026-11-16"
 }
