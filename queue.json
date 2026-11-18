@@ -1144,7 +1144,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2123077884353126401",
+      "x_media_at": "2026-11-18T09:36:26-06:00"
     },
     {
       "id": "ig-quick-0081",
@@ -5468,6 +5470,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-18T08:26:04-06:00",
+  "updated_at": "2026-11-18T09:36:27-06:00",
   "heartbeat_sent_on": "2026-11-17"
 }
