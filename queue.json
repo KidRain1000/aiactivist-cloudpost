@@ -12,7 +12,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2123111088849928192",
+      "x_media_at": "2026-11-18T11:48:19-06:00"
     },
     {
       "id": "x-video-0051",
@@ -808,8 +810,8 @@
       "alt": "Text card comedy video. Ava called the delivery robot a cooler on wheels.",
       "video": "b0079.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0079.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2m4iy7lpxrk",
       "error": null,
       "bsky_video_job": "dbuu52lvnpos73fqfilg",
       "bsky_blob": {
@@ -821,7 +823,7 @@
         "size": 6317034
       },
       "bsky_rkey": "3n2m4iy7lpxrk",
-      "claimed_at": "2026-11-18T11:48:19-06:00"
+      "posted_at": "2026-11-18T11:48:19-06:00"
     },
     {
       "id": "x-video-0080",
@@ -5483,6 +5485,6 @@
       "posted_at": "2026-11-02T11:31:47-06:00"
     }
   ],
-  "updated_at": "2026-11-18T11:48:20-06:00",
+  "updated_at": "2026-11-18T11:48:24-06:00",
   "heartbeat_sent_on": "2026-11-17"
 }
