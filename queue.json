@@ -5618,7 +5618,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2123907809158811648",
+      "x_media_at": "2026-11-20T16:34:16-06:00"
     },
     {
       "id": "x-video-0109-r2",
@@ -5634,6 +5636,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-20T11:22:55-06:00",
+  "updated_at": "2026-11-20T16:34:17-06:00",
   "heartbeat_sent_on": "2026-11-19"
 }
