@@ -5514,7 +5514,9 @@
       "posted_url": null,
       "error": null,
       "x_media_id": "2123824381969186816",
-      "x_media_at": "2026-11-20T11:02:45-06:00"
+      "x_media_at": "2026-11-20T11:02:45-06:00",
+      "x_media_ready": true,
+      "claimed_at": "2026-11-20T11:12:49-06:00"
     },
     {
       "id": "x-skit-S010",
@@ -5621,6 +5623,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-20T11:02:46-06:00",
+  "updated_at": "2026-11-20T11:12:49-06:00",
   "heartbeat_sent_on": "2026-11-19"
 }
