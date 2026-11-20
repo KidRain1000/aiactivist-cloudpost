@@ -4600,8 +4600,8 @@
       "alt": "Text card comedy video. Vermont. Michael calls the freezer the North Pole.",
       "video": "b0093.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0093.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2r3zc2icoe3",
       "error": null,
       "bsky_video_job": "dc07v5jlra8s739jog6g",
       "bsky_blob": {
@@ -4613,7 +4613,7 @@
         "size": 8531524
       },
       "bsky_rkey": "3n2r3zc2icoe3",
-      "claimed_at": "2026-11-20T11:22:51-06:00"
+      "posted_at": "2026-11-20T11:22:51-06:00"
     },
     {
       "id": "bs-video-0094",
@@ -5634,6 +5634,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-20T11:22:52-06:00",
+  "updated_at": "2026-11-20T11:22:55-06:00",
   "heartbeat_sent_on": "2026-11-19"
 }
