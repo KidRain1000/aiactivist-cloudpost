@@ -4623,8 +4623,8 @@
       "alt": "Text card comedy video. Denver. 5 AM. Chris runs the blender while the house sleeps.",
       "video": "b0094.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0094.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2tnrq23omli",
       "error": null,
       "bsky_video_job": "dc0t6380isls73btuq6g",
       "bsky_blob": {
@@ -4636,7 +4636,7 @@
         "size": 8619774
       },
       "bsky_rkey": "3n2tnrq23omli",
-      "claimed_at": "2026-11-21T11:46:03-06:00"
+      "posted_at": "2026-11-21T11:46:03-06:00"
     },
     {
       "id": "bs-video-0095",
@@ -5679,6 +5679,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-21T11:46:05-06:00",
+  "updated_at": "2026-11-21T11:46:11-06:00",
   "heartbeat_sent_on": "2026-11-20"
 }
