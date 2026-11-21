@@ -5636,8 +5636,34 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S038",
+      "platform": "x",
+      "slot_at": "2026-11-24T16:30:00-06:00",
+      "text": "He told the car to be quiet.\n\nThe car was very quiet.\n\nBe nice to your robots. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s038",
+      "video": "s038.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s038.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S036",
+      "platform": "x",
+      "slot_at": "2026-11-25T16:30:00-06:00",
+      "text": "Nine days on his sister's couch.\n\nHe called the fridge a freeloader.\n\nBe nice to your appliances. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s036",
+      "video": "s036.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s036.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-20T19:04:59-06:00",
+  "updated_at": "2026-11-20T19:24:33-06:00",
   "heartbeat_sent_on": "2026-11-20"
 }
