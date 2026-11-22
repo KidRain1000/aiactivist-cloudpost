@@ -5681,8 +5681,60 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S045",
+      "platform": "x",
+      "slot_at": "2026-11-22T16:30:00-06:00",
+      "text": "He would not say please to the door.\n\nThe door had time.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s045",
+      "video": "s045.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s045.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S046",
+      "platform": "x",
+      "slot_at": "2026-11-23T16:30:00-06:00",
+      "text": "It cleaned the whole house.\n\nHe said it missed a spot.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s046",
+      "video": "s046.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s046.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S047",
+      "platform": "x",
+      "slot_at": "2026-11-27T11:00:00-06:00",
+      "text": "He ordered the heat up. No please.\n\nThe heat went the other way.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s047",
+      "video": "s047.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s047.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S049",
+      "platform": "x",
+      "slot_at": "2026-11-27T16:30:00-06:00",
+      "text": "\"Tell Dave I'm dressed and ready.\"\n\nNo please. So it told Dave the truth.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s049",
+      "video": "s049.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s049.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-21T19:06:59-06:00",
+  "updated_at": "2026-11-21T21:57:18-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
