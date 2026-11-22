@@ -5733,8 +5733,60 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S051",
+      "platform": "x",
+      "slot_at": "2026-11-26T16:30:00-06:00",
+      "text": "She said the turkey was all her.\n\nThe speaker remembered it differently.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s051",
+      "video": "s051.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s051.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S053",
+      "platform": "x",
+      "slot_at": "2026-11-28T11:00:00-06:00",
+      "text": "Please starts the ice.\n\nThank you stops it. She learned both.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s053",
+      "video": "s053.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s053.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S054",
+      "platform": "x",
+      "slot_at": "2026-11-28T16:30:00-06:00",
+      "text": "Grandpa says nobody has manners anymore.\n\nThe TV agrees.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s054",
+      "video": "s054.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s054.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S050",
+      "platform": "x",
+      "slot_at": "2026-11-29T11:00:00-06:00",
+      "text": "The car parked itself. Perfectly.\n\nShe forgot two words. He did not.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s050",
+      "video": "s050.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s050.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-21T21:57:18-06:00",
+  "updated_at": "2026-11-21T22:05:25-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
