@@ -4646,8 +4646,8 @@
       "alt": "Text card comedy video. Seattle. Amanda calls the coffee maker a cheap barista.",
       "video": "b0095.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0095.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n2w5j2hn3ilw",
       "error": null,
       "bsky_video_job": "dc1i9r6q3bis73egk0g0",
       "bsky_blob": {
@@ -4659,7 +4659,7 @@
         "size": 8013031
       },
       "bsky_rkey": "3n2w5j2hn3ilw",
-      "claimed_at": "2026-11-22T11:32:53-06:00"
+      "posted_at": "2026-11-22T11:32:53-06:00"
     },
     {
       "id": "bs-video-0097",
@@ -5880,6 +5880,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-22T11:32:54-06:00",
+  "updated_at": "2026-11-22T11:32:56-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
