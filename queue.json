@@ -5785,8 +5785,21 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S052",
+      "platform": "x",
+      "slot_at": "2026-11-29T16:30:00-06:00",
+      "text": "Ever wonder where the socks go?\n\nShe never said thank you.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s052",
+      "video": "s052.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s052.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-21T22:05:25-06:00",
+  "updated_at": "2026-11-22T00:13:15-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
