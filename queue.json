@@ -4648,7 +4648,8 @@
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0095.mp4",
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "bsky_video_job": "dc1i9r6q3bis73egk0g0"
     },
     {
       "id": "bs-video-0097",
@@ -5869,6 +5870,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-22T11:12:49-06:00",
+  "updated_at": "2026-11-22T11:22:53-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
