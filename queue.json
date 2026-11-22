@@ -5811,8 +5811,21 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S063",
+      "platform": "x",
+      "slot_at": "2026-11-29T11:00:00-06:00",
+      "text": "Grandpa would not say please for the weather.\n\nSo he went and checked.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s063",
+      "video": "s063.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s063.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-22T00:14:31-06:00",
+  "updated_at": "2026-11-22T01:15:44-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
