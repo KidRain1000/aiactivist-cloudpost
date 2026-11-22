@@ -5730,9 +5730,9 @@
       "video": "s049.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s049.mp4",
       "x_link": false,
-      "status": "approved",
+      "status": "draft",
       "posted_url": null,
-      "error": null
+      "error": "REPLACED 11/22 by S042 original (Chris)"
     },
     {
       "id": "x-skit-S051",
@@ -5798,8 +5798,21 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S042",
+      "platform": "x",
+      "slot_at": "2026-11-27T16:30:00-06:00",
+      "text": "\"Tell Dave I'm dressed and ready.\"\n\nDave was at the window.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s042",
+      "video": "s042.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s042.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
-  "updated_at": "2026-11-22T00:13:15-06:00",
+  "updated_at": "2026-11-22T00:14:31-06:00",
   "heartbeat_sent_on": "2026-11-21"
 }
