@@ -4695,7 +4695,17 @@
       "status": "approved",
       "posted_url": null,
       "error": null,
-      "bsky_video_job": "dc2smiuu8ahs738a553g"
+      "bsky_video_job": "dc2smiuu8ahs738a553g",
+      "bsky_blob": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreigp2mxijfiwcjhjd6netwai2no2xtyucjgu5f3se7nee3irt2vdjq"
+        },
+        "mimeType": "video/mp4",
+        "size": 8245718
+      },
+      "bsky_rkey": "3n337aklwkiun",
+      "claimed_at": "2026-11-24T11:47:14-06:00"
     },
     {
       "id": "bs-video-0099",
@@ -5908,6 +5918,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-24T11:37:15-06:00",
+  "updated_at": "2026-11-24T11:47:15-06:00",
   "heartbeat_sent_on": "2026-11-23"
 }
