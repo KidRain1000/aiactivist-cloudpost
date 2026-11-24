@@ -4692,8 +4692,8 @@
       "alt": "Text card comedy video. Omaha. Steve calls the air fryer a nugget machine.",
       "video": "b0098.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0098.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n337aklwkiun",
       "error": null,
       "bsky_video_job": "dc2smiuu8ahs738a553g",
       "bsky_blob": {
@@ -4705,7 +4705,7 @@
         "size": 8245718
       },
       "bsky_rkey": "3n337aklwkiun",
-      "claimed_at": "2026-11-24T11:47:14-06:00"
+      "posted_at": "2026-11-24T11:47:14-06:00"
     },
     {
       "id": "bs-video-0099",
@@ -5918,6 +5918,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-24T11:47:15-06:00",
+  "updated_at": "2026-11-24T11:47:19-06:00",
   "heartbeat_sent_on": "2026-11-23"
 }
