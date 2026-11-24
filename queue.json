@@ -5712,7 +5712,9 @@
       "x_link": false,
       "status": "approved",
       "posted_url": null,
-      "error": null
+      "error": null,
+      "x_media_id": "2125358465002692608",
+      "x_media_at": "2026-11-24T16:38:38-06:00"
     },
     {
       "id": "x-skit-S036",
@@ -6035,6 +6037,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-24T14:39:18-06:00",
+  "updated_at": "2026-11-24T16:38:40-06:00",
   "heartbeat_sent_on": "2026-11-23"
 }
