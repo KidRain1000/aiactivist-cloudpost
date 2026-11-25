@@ -4715,8 +4715,8 @@
       "alt": "Text card comedy video. Linda's ice maker rattles at night.",
       "video": "b0099.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0099.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n35q4kg7u6ko",
       "error": null,
       "bsky_video_job": "dc3hsvqijdfs73f570eg",
       "bsky_blob": {
@@ -4728,7 +4728,7 @@
         "size": 6079577
       },
       "bsky_rkey": "3n35q4kg7u6ko",
-      "claimed_at": "2026-11-25T11:54:32-06:00"
+      "posted_at": "2026-11-25T11:54:32-06:00"
     },
     {
       "id": "bs-video-0100",
@@ -6054,6 +6054,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-25T11:54:33-06:00",
+  "updated_at": "2026-11-25T11:54:36-06:00",
   "heartbeat_sent_on": "2026-11-24"
 }
