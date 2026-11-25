@@ -5682,7 +5682,9 @@
       "posted_url": null,
       "error": null,
       "x_media_id": "2125674177638121472",
-      "x_media_at": "2026-11-25T13:33:10-06:00"
+      "x_media_at": "2026-11-25T13:33:10-06:00",
+      "x_media_ready": true,
+      "claimed_at": "2026-11-25T13:43:13-06:00"
     },
     {
       "id": "x-video-0108-r2",
@@ -6056,6 +6058,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-25T13:33:12-06:00",
+  "updated_at": "2026-11-25T13:43:13-06:00",
   "heartbeat_sent_on": "2026-11-24"
 }
