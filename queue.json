@@ -4741,7 +4741,17 @@
       "status": "approved",
       "posted_url": null,
       "error": null,
-      "bsky_video_job": "dc49iess4aoc73f0r1m0"
+      "bsky_video_job": "dc49iess4aoc73f0r1m0",
+      "bsky_blob": {
+        "$type": "blob",
+        "ref": {
+          "$link": "bafkreigziepzctlapg53sl56hv4gtt4lhze6tdnp7yq5knbqxpkbkwddlq"
+        },
+        "mimeType": "video/mp4",
+        "size": 7577948
+      },
+      "bsky_rkey": "3n3akg3xxft4h",
+      "claimed_at": "2026-11-26T14:50:27-06:00"
     },
     {
       "id": "bs-video-0101",
@@ -5747,13 +5757,13 @@
       "video": "s036.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s036.mp4",
       "x_link": false,
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://x.com/aiactivisthq/status/2126056018740457978",
       "error": null,
       "x_media_id": "2126053484269072384",
       "x_media_at": "2026-11-26T14:40:24-06:00",
       "x_media_ready": true,
-      "claimed_at": "2026-11-26T14:50:27-06:00"
+      "posted_at": "2026-11-26T14:50:27-06:00"
     },
     {
       "id": "x-skit-S045",
@@ -6067,6 +6077,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-26T14:50:28-06:00",
+  "updated_at": "2026-11-26T14:50:31-06:00",
   "heartbeat_sent_on": "2026-11-25"
 }
