@@ -6083,6 +6083,32 @@
       "status": "approved",
       "posted_url": null,
       "error": null
+    },
+    {
+      "id": "x-skit-S083",
+      "platform": "x",
+      "slot_at": "2026-12-02T13:30:00-06:00",
+      "text": "Ever wonder why the plant always dies?\n\nHe never thanked the pot.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s083",
+      "video": "s083.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s083.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
+    },
+    {
+      "id": "x-skit-S084",
+      "platform": "x",
+      "slot_at": "2026-12-02T18:00:00-06:00",
+      "text": "Ever wonder where the remote goes?\n\nThe chair has been keeping things.\n\nSay please and thank you to your robot. Just in case.",
+      "link": "https://theaiactivist.com/?utm_source=x&utm_content=s084",
+      "video": "s084.mp4",
+      "video_url": "https://kidrain1000.github.io/aiactivist-media/media/s084.mp4",
+      "x_link": false,
+      "status": "approved",
+      "posted_url": null,
+      "error": null
     }
   ],
   "updated_at": "2026-11-26T19:01:36-06:00",
