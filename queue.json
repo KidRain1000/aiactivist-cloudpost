@@ -4784,8 +4784,8 @@
       "alt": "Text card comedy video. Tom has never emptied the crumb tray. Ever.",
       "video": "b0102.mp4",
       "video_url": "https://kidrain1000.github.io/aiactivist-media/media/b0102.mp4",
-      "status": "approved",
-      "posted_url": null,
+      "status": "posted",
+      "posted_url": "https://bsky.app/profile/theaiactivist.com/post/3n3f7uankxhs6",
       "error": null,
       "bsky_video_job": "dc5go2q0e22c73a8scl0",
       "bsky_blob": {
@@ -4797,7 +4797,7 @@
         "size": 8102959
       },
       "bsky_rkey": "3n3f7uankxhs6",
-      "claimed_at": "2026-11-28T11:24:52-06:00"
+      "posted_at": "2026-11-28T11:24:52-06:00"
     },
     {
       "id": "bs-video-0103",
@@ -6137,6 +6137,6 @@
       "error": null
     }
   ],
-  "updated_at": "2026-11-28T11:24:53-06:00",
+  "updated_at": "2026-11-28T11:24:56-06:00",
   "heartbeat_sent_on": "2026-11-27"
 }
